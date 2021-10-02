@@ -1,0 +1,3 @@
+Data Visualisation (Power BI): Sales Dashboard <br />
+
+In this project, Power BI was used to visualise an unamed business online retail sales data which had to cut back 25 employee to 5 during the pandemic's economic downturn. The interactive visualistion has incorporated interaction tools that faciliate the modification of product type and date parameters. The interactive dashboard allows the user make revenue comparison across product types to guage profitability and generating insights for total sales (including discounts, returns, shipping and total orders) within the customised date parameters.![image](https://user-images.githubusercontent.com/88493402/135702249-1d15658b-fea6-4858-abf5-85f5260faccb.png)
